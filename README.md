@@ -1,7 +1,7 @@
 # DataMining_project
 
-> Sadeem Albadrani
-> Rawan Alnowaiser
-> Ghala Alharbi
-> Shaima Aldrawiesh
-> 
+> Sadeem Albadrani <br>
+> Rawan Alnowaiser <br>
+> Ghala Alharbi <br>
+> Shaima Aldrawiesh <br>
+
