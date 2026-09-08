@@ -20,7 +20,9 @@ Grouping similar accident records to discover patterns and relationships among a
 
 ## Project Motivation
 
-We chose this topic because traffic accidents are a major safety issue that affects individuals and transportation systems. Analyzing traffic accident data can help identify important factors related to accidents and improve the understanding of accident patterns. By applying classification and clustering techniques, this project provides a practical application of data mining to extract valuable information and support data-driven decisions for improving traffic safety
+We chose this topic because traffic accidents are a major safety issue that affects individuals and transportation systems. 
+Analyzing traffic accident data can help identify important factors related to accidents and improve the understanding of accident patterns. 
+By applying classification and clustering techniques, this project provides a practical application of data mining to extract valuable information and support data-driven decisions for improving traffic safety.
 
 
 > Sadeem Albadrani <br>
