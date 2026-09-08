@@ -26,9 +26,9 @@ Analyzing traffic accident data can help identify important factors related to a
 
 By applying classification and clustering techniques, this project provides a practical application of data mining to extract valuable information and support data-driven decisions for improving traffic safety.
 
-> Student names: <br>
-> Sadeem Albadrani <br>
-> Rawan Alnowaiser <br>
-> Ghala Alharbi <br>
-> Shaima Aldrawiesh <br>
+## Student Names: 
+* Sadeem Albadrani 
+* Rawan Alnowaiser 
+* Ghala Alharbi 
+* Shaima Aldrawiesh 
 
