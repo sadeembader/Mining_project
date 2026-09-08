@@ -1,5 +1,3 @@
-# DataMining_project
-
 # Traffic Accident Prediction Using Data Mining
 
 ## Project Description
